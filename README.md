@@ -19,7 +19,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * 💰 **Median Salary by Occupation & Gender** — explore wage differences across roles and time.
 * 🎓 **Education Attainment Trends (25–29)** — track the “educational upgrade” toward university degrees.
 * 📈 **Unemployment by Education Level** — evaluate resilience during economic downturns (1992–2024).
-* 🧮 **Downloadable CSV & Treemap/Bar/Line Visualizations** for further research and analysis.
+* 🧮 **Downloadable CSV & Treemap/Bar/Line Visualizations** for further research and analysis.  
 
 
 * 📊 **总体就业趋势** — 查看居民就业总量与年度增长率。
