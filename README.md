@@ -78,9 +78,12 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 ```bash
 streamlit run Dashboard.py
 ```
-<br><br>
+
 1.新建终端 <br>
-2.输入：streamlit run Dashboard.py
+2.输入：
+```bash
+streamlit run Dashboard.py
+```
 
 ---
 
