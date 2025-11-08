@@ -1,5 +1,6 @@
-## What traits shape a good career start: Industry, Occupation and Education Analysis for Young Singaporeans aged 25 to 29.
-## 是什么特征塑造了良好的职业起点：——针对新加坡 25 至 29 岁青年群体的行业、职业与教育分析
+## What traits shape a good career start: Industry, Occupation and Education Analysis for Young Singaporeans aged 25 to 29. 是什么特征塑造了良好的职业起点：——针对新加坡 25 至 29 岁青年群体的行业、职业与教育分析
+
+---
 
 ## 💡 Project Overview / 项目概览
 
@@ -8,6 +9,8 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 
 本项目通过 Streamlit 构建的交互式仪表板，分析了新加坡 **2007–2024** 年的就业、薪资、教育与失业趋势，旨在帮助25–29 岁青年发掘最具潜力的行业与职业方向。
 数据来源于新加坡人力部官方公开数据，重点展示 **青年就业占比、薪资走势及教育结构变化**，为求职与政策研究提供参考。
+
+---
 
 ## 🧩 Features / 主要功能
 
@@ -25,6 +28,8 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * 🎓 **25–29 岁学历结构趋势** — 揭示“教育升级”现象，大学学历成新常态。
 * 📈 **按学历划分的失业率趋势** — 分析经济波动期各学历群体的韧性。
 * 🧮 **数据导出与可视化下载功能** — 方便研究与教学使用。
+
+---
 
 ## 🔍 Key Findings / 核心发现
 
@@ -59,58 +64,25 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
   caught between degree-holders (competition) and lower-skilled jobs (overqualification).
 * During crises (2008, 2020), low-educated groups’ unemployment rates surged most, while degree-holders remained more stable — education acts as a **“life jacket”** in recessions.
 
+  
 * 出现明显的 **“学历升级”趋势** —— 大学学历已占 25–29 岁人群的约 **60%**。
 * **中学及以下学历** 比例自 2007 年后大幅下降。
 * **大专/文凭层次** 就业风险最高，出现“**中间层被挤压**”现象：既被高学历竞争，又被低技能岗位排斥。
 * 在经济危机（2008、2020）中，低学历群体失业率上升最剧烈；而大学学历者波动最小，学历犹如“**经济救生衣**”。
 
-
-### Strategic Insights for Youth / 对青年人的启示
-
-* **The Trend is “Higher”** – education and skills remain key to long-term employability.
-* **The Challenge is in the “Middle”** – diploma holders need continuous upskilling to stay competitive.
-* **The Stability is in “University”** – higher qualifications bring better resilience against shocks.
-
-
-* **趋势在“更高”** —— 高学历与技能仍是长期竞争力的核心。
-* **挑战在“中间层”** —— 文凭持有者需持续学习与技能提升。
-* **稳定在“大学层”** —— 高学历带来更强抗风险能力与就业稳定性。
-
----
-
-## 🖥️ Usage / 使用说明
-
-**Run the Streamlit app:**
-
-```bash
-streamlit run app.py
-```
-
-**Optional Arguments:**
-
-* Use sidebar filters to select year range, industries, or service subsectors.
-* Toggle between *Total Employment* and *YoY Growth*.
-* Download charts and datasets (CSV, PNG) for deeper analysis.
-
 ---
 
 ## ⚙️ Code Execution Guide / 代码运行指南
 
-**Recommended Environment:** Python ≥3.9 + Streamlit
+**Run the Streamlit:**
+open the new terminal
 
-* Run `data_preprocess.py` → `dashboard_main.py`.
-* Source data: official MOM datasets (employment, salary, education, unemployment).
-* For Mac users: run directly after cloning.
-* For Windows users: replace file paths “/” with “\”.
-
-* 按顺序运行 `data_preprocess.py` → `dashboard_main.py`。
-* 数据来源：新加坡人力部就业、薪资、教育与失业率官方数据。
-* Mac 用户可直接运行；Windows 用户需修改文件路径分隔符。
+```bash
+streamlit Dashboard.py
+```
 
 ---
 
 ## 📚 Data Source / 数据来源
-
-* Singapore Ministry of Manpower (MOM) — *Resident Employment, Unemployment & Wages Statistics (2007–2024)*
-* Singapore Department of Statistics — *Labour Force in Singapore Annual Reports*
+* [Singapore Ministry of Manpower (MOM) — *Resident Employment, Unemployment & Wages Statistics (2007–2024)*](https://www.tablebuilder.singstat.gov.sg/)
 
