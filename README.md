@@ -32,7 +32,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 ---
 
 ## 🔍 Key Findings / 核心发现
-
+<br><br>
 ### Industry Perspective / 行业视角
 
 * From **2007 to 2024**, Singapore’s total employment steadily increased, though growth slowed after COVID-19 due to global economic headwinds.
@@ -42,7 +42,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * **2007–2024 年**，新加坡就业总量总体稳步上升，但疫情后增长放缓，转向结构优化。
 * **服务业** 长期占据主导地位，年轻人主要集中于 **专业服务、金融保险、公共行政与教育** 等领域。
 * 青年就业比例正在从传统行业（制造、建筑）转向 **知识密集型行业（信息通信等）**。
-
+<br><br>
 ### Occupation Perspective / 职业视角
 
 * The 25–29 age group is dominated by **Professionals (≈39%)** and **Associate Professionals & Technicians (≈32%)**, together forming almost **three-quarters** of all employed youth.
@@ -55,7 +55,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * 蓝领岗位（技工、操作员、清洁工）占比已降至 **5% 以下**，反映自动化与服务业扩张。
 * 不同职业间薪资差距显著，**管理与专业职位** 的中位数收入是体力或服务岗位的 2–3 倍。
 * 性别薪酬差距存在但较小，**职业类型** 才是决定工资差异的关键。
-
+<br><br>
 ### Education Perspective / 教育视角
 
 * A clear **“educational upgrade”** is visible — university graduates now make up nearly **60%** of the 25–29 cohort.
@@ -73,10 +73,8 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 ---
 
 ## ⚙️ Code Execution Guide / 代码运行指南
-
+**open the new terminal** <br>
 **Run the Streamlit:**
-open the new terminal
-
 ```bash
 streamlit Dashboard.py
 ```
