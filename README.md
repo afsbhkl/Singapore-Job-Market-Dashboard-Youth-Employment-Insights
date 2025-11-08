@@ -79,7 +79,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 streamlit run Dashboard.py
 ```
 <br><br>
-1.新建终端
+1.新建终端 <br>
 2.输入：streamlit run Dashboard.py
 
 ---
