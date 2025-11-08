@@ -6,7 +6,7 @@
 
 This interactive Streamlit dashboard analyzes Singapore’s employment, salary, education, and unemployment trends (2007–2024) to help young residents (aged 25–29) discover which industries and occupations offer the best career prospects.
 It draws data from Singapore’s official Ministry of Manpower (MOM) statistics and visualizes long-term trends in **youth employment shares, salary growth, and education levels**.
-
+<br><br>
 本项目通过 Streamlit 构建的交互式仪表板，分析了新加坡 **2007–2024** 年的就业、薪资、教育与失业趋势，旨在帮助25–29 岁青年发掘最具潜力的行业与职业方向。
 数据来源于新加坡人力部官方公开数据，重点展示 **青年就业占比、薪资走势及教育结构变化**，为求职与政策研究提供参考。
 
@@ -20,7 +20,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * 🎓 **Education Attainment Trends (25–29)** — track the “educational upgrade” toward university degrees.
 * 📈 **Unemployment by Education Level** — evaluate resilience during economic downturns (1992–2024).
 * 🧮 **Downloadable CSV & Treemap/Bar/Line Visualizations** for further research and analysis.  
-
+<br><br>
 
 * 📊 **总体就业趋势** — 查看居民就业总量与年度增长率。
 * 👩‍💼 **行业青年占比（2024）** — 探索哪些行业更吸引年轻人，并对比制造业、建筑业与服务业的表现。
@@ -38,7 +38,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * From **2007 to 2024**, Singapore’s total employment steadily increased, though growth slowed after COVID-19 due to global economic headwinds.
 * **Services sector** dominates the landscape for young workers, especially in **Professional, Financial, and Public Administration & Education** services.
 * **Youth share** is declining in traditional industries (Manufacturing, Construction) and shifting toward **knowledge-intensive sectors** like Information & Communications.
-
+<br><br>
 * **2007–2024 年**，新加坡就业总量总体稳步上升，但疫情后增长放缓，转向结构优化。
 * **服务业** 长期占据主导地位，年轻人主要集中于 **专业服务、金融保险、公共行政与教育** 等领域。
 * 青年就业比例正在从传统行业（制造、建筑）转向 **知识密集型行业（信息通信等）**。
@@ -49,7 +49,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * Traditional blue-collar jobs (craftsmen, machine operators, cleaners) have fallen below **5%**, indicating automation and service-sector expansion.
 * The median salary gap between occupations remains large — **managers and professionals** earn 2–3× more than service or manual workers.
 * Gender differences exist but are **smaller than occupational differences**; occupation is the true driver of wage disparity.
-
+<br><br>
 
 * 年龄 25–29 岁人群主要集中在 **专业人员（约39%）** 与 **助理专业/技术人员（约32%）**，合计近 **75% 的青年就业者**。
 * 蓝领岗位（技工、操作员、清洁工）占比已降至 **5% 以下**，反映自动化与服务业扩张。
@@ -63,7 +63,7 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 * Those with **post-secondary diplomas** face the highest unemployment risk since 2009 — the “**squeezed middle**” effect:
   caught between degree-holders (competition) and lower-skilled jobs (overqualification).
 * During crises (2008, 2020), low-educated groups’ unemployment rates surged most, while degree-holders remained more stable — education acts as a **“life jacket”** in recessions.
-
+<br><br>
   
 * 出现明显的 **“学历升级”趋势** —— 大学学历已占 25–29 岁人群的约 **60%**。
 * **中学及以下学历** 比例自 2007 年后大幅下降。
