@@ -32,7 +32,6 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 ---
 
 ## 🔍 Key Findings / 核心发现
-<br><br>
 ### Industry Perspective / 行业视角
 
 * From **2007 to 2024**, Singapore’s total employment steadily increased, though growth slowed after COVID-19 due to global economic headwinds.
@@ -73,8 +72,8 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 ---
 
 ## ⚙️ Code Execution Guide / 代码运行指南
-**open the new terminal** <br>
-**Run the Streamlit:**
+1.**open the new terminal** <br>
+2.**Run the Streamlit:**
 ```bash
 streamlit Dashboard.py
 ```
