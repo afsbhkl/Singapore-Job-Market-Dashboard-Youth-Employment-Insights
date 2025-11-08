@@ -1,4 +1,5 @@
-## What traits shape a good career start: Industry, Occupation and Education Analysis for Young Singaporeans aged 25 to 29. 是什么特征塑造了良好的职业起点：——针对新加坡 25 至 29 岁青年群体的行业、职业与教育分析
+## What traits shape a good career start: Industry, Occupation and Education Analysis for Young Singaporeans aged 25 to 29. 
+## 是什么特征塑造了良好的职业起点：——针对新加坡 25 至 29 岁青年群体的行业、职业与教育分析
 
 ---
 
@@ -72,11 +73,14 @@ It draws data from Singapore’s official Ministry of Manpower (MOM) statistics 
 ---
 
 ## ⚙️ Code Execution Guide / 代码运行指南
-1.**open the new terminal** <br>
+1.**Open the new terminal** <br>
 2.**Run the Streamlit:**
 ```bash
-streamlit Dashboard.py
+streamlit run Dashboard.py
 ```
+<br><br>
+1.新建终端
+2.输入：streamlit run Dashboard.py
 
 ---
 
