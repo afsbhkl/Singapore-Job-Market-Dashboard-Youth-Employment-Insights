@@ -4,9 +4,9 @@
 ## 💡 Project Overview / 项目概览
 
 This interactive Streamlit dashboard analyzes Singapore’s employment, salary, education, and unemployment trends (2007–2024) to help young residents (aged 25–29) discover which industries and occupations offer the best career prospects.
-It draws data from Singapore’s official Ministry of Manpower (MOM) statistics and visualizes long-term trends in youth employment shares, salary growth, and education levels**.
+It draws data from Singapore’s official Ministry of Manpower (MOM) statistics and visualizes long-term trends in **youth employment shares, salary growth, and education levels**.
 
-本项目通过 Streamlit 构建的交互式仪表板，分析了新加坡 **2007–2024 年的就业、薪资、教育与失业趋势，旨在帮助25–29 岁青年发掘最具潜力的行业与职业方向。
+本项目通过 Streamlit 构建的交互式仪表板，分析了新加坡 **2007–2024** 年的就业、薪资、教育与失业趋势，旨在帮助25–29 岁青年发掘最具潜力的行业与职业方向。
 数据来源于新加坡人力部官方公开数据，重点展示 **青年就业占比、薪资走势及教育结构变化**，为求职与政策研究提供参考。
 
 ## 🧩 Features / 主要功能
